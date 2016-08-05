@@ -7,5 +7,7 @@ Felipecsl.GifImageViewLibrary.GifImageView Gif Play from Assets and Drawable sam
 
 
 reference : 
+
 http://no2don.blogspot.com/2016/08/xamarin-gif.html
+
 https://components.xamarin.com/view/gifimageviewandroid
